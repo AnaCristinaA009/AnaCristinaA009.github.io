@@ -1,0 +1,30 @@
+p{ color: pink;
+    text-align: center ;
+    font-size: 23px;
+    margin-left: 10%
+    margin-right: 10%
+    font-family: "Gill Sans",
+
+    h1{
+        color:pink;
+        text-align: center;
+        font-size: 36px;
+        font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+
+
+    }
+
+
+.image{
+
+    width: 300px;
+    border-radius: 10px;
+    border: 1px solid #E62C02
+    -ms-ime-align: center;
+}
+
+body{
+
+    background-color: bisque;
+
+}
